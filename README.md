@@ -4,7 +4,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/kashafthakur/ 
 - ⚡ Fun fact: I love making Henna Art
 -->
-<h1 align="center">Hi, Welcome to my Profile 👋</h1>
+<h1 align="center">Hi 👋, Welcome to my Profile </h1>
 <br>
 <h2 align="center"> Data Analyst 👩‍💻 </h2>
 <br />
