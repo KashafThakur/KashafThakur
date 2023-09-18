@@ -4,18 +4,18 @@
 - 📫 How to reach me: https://www.linkedin.com/in/kashafthakur/ 
 - ⚡ Fun fact: I love making Henna Art
 -->
-<h2 align="center">Hi there, welcome to my GitHub profile 👋</h2>
+<h1 align="center">Hi, Welcome to my Profile 👋</h1>
 <br>
-<h3 align="center"> Data Analyst 👩‍💻 </h3>
-
+<h2 align="center"> Data Analyst 👩‍💻 </h2>
 <br />
 
 <img src="https://media.licdn.com/dms/image/D4D16AQHPOSVEblHkHw/profile-displaybackgroundimage-shrink_350_1400/0/1671645768231?e=1700697600&v=beta&t=5r5Mo_O8J3-8uuTRJu50_1eWulbSNagaERSM7eqHIRg" alt="banner that says Kashaf Thakur - Data Analyst">
 
 
-**About me 🙋‍♀️**
-I am an Aspiring Data Analyst with a passion for delivering valuable insights from data. I developed this passion while working as an intern for an analytical company.
-I am currently seeking opportunities where I can enhance my skills and ensure growth in my experience and career.
+## About Me 🙋‍♀️ 
+
+<p> I am an Aspiring Data Analyst with a passion for delivering valuable insights from data. I developed this passion while working as an intern for an analytical company.
+I am currently seeking opportunities where I can enhance my skills and ensure growth in my experience and career.</p>
 
 
 ## Find me on <a href="https://www.linkedin.com/in/kashafthakur/">LinkedIn</a> 💼
@@ -34,7 +34,3 @@ I am currently seeking opportunities where I can enhance my skills and ensure gr
 
 <!--- View Counts --->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KashafThakur&style=flat&color=blueviolet" alt=KashafThakur/> </p>
-
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
