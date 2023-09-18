@@ -6,7 +6,7 @@
 -->
 <h2 align="center">Hi there, welcome to my GitHub profile 👋</h2>
 <br>
-<h3 align="center"> Data Analyst 👩‍💻 /></h3>
+<h3 align="center"> Data Analyst 👩‍💻 </h3>
 
 <br />
 
