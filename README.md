@@ -22,7 +22,6 @@ I am currently seeking opportunities where I can enhance my skills and ensure gr
 
 <p align="center">
 	<img width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=KashafThakur&include_all_commits=true&hide_border=true&theme=radical&layout=compact" />
-	<img width="350em" src="https://github-readme-stats.vercel.app/api?username=KashafThakur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&layout=compact" />
 </p>
 
 <!--<summary><b>🔎 Github Profile Details </b></summary>--->
