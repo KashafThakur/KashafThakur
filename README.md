@@ -8,14 +8,14 @@
 <br>
 <h2 align="center"> Data Analyst 👩‍💻 </h2>
 <br />
-
-<img src="https://media.licdn.com/dms/image/D4D16AQHPOSVEblHkHw/profile-displaybackgroundimage-shrink_350_1400/0/1671645768231?e=1700697600&v=beta&t=5r5Mo_O8J3-8uuTRJu50_1eWulbSNagaERSM7eqHIRg" alt="banner that says Kashaf Thakur - Data Analyst">
+<!-- src ="https://media.licdn.com/dms/image/D4D16AQHPOSVEblHkHw/profile-displaybackgroundimage-shrink_350_1400/0/1671645768231?e=1700697600&v=beta&t=5r5Mo_O8J3-8uuTRJu50_1eWulbSNagaERSM7eqHIRg" -->
+<img src ="https://drive.google.com/file/d/1EZaBKS2FWM5eJX6ikhRqK5E-sBv_tTtr/view?usp=sharing" alt=" banner that says Kashaf Thakur - Data Analyst">
 
 
 ## About Me 🙋‍♀️ 
 
-<p> I am an Aspiring Data Analyst with a passion for delivering valuable insights from data. I developed this passion while working as an intern for an analytical company.
-I am currently seeking opportunities where I can enhance my skills and ensure growth in my experience and career.</p>
+<p> I am an Aspiring Data Analyst passionate about delivering valuable insights from data. I developed this passion while working as an intern for an analytical company.
+I keep seeking opportunities to enhance my skills and grow my experience and career.</p>
 
 
 ## Find me on <a href="https://www.linkedin.com/in/kashafthakur/">LinkedIn</a> 💼
