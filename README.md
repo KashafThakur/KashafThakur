@@ -4,12 +4,12 @@
 - 📫 How to reach me: https://www.linkedin.com/in/kashafthakur/ 
 - ⚡ Fun fact: I love making Henna Art
 -->
-<h1 align="center">Hi 👋, Welcome to my Profile </h1>
-<br>
+<h1 align="center">Hi 👋, Welcome to my Profile 👩‍💻 </h1>
+<!-- <br>
 <h2 align="center"> Data Analyst 👩‍💻 </h2>
 <br />
-<!-- src ="https://media.licdn.com/dms/image/D4D16AQHPOSVEblHkHw/profile-displaybackgroundimage-shrink_350_1400/0/1671645768231?e=1700697600&v=beta&t=5r5Mo_O8J3-8uuTRJu50_1eWulbSNagaERSM7eqHIRg" -->
-<img src ="https://drive.google.com/file/d/1EZaBKS2FWM5eJX6ikhRqK5E-sBv_tTtr/view?usp=sharing" alt=" banner that says Kashaf Thakur - Data Analyst">
+src ="https://media.licdn.com/dms/image/D4D16AQHPOSVEblHkHw/profile-displaybackgroundimage-shrink_350_1400/0/1671645768231?e=1700697600&v=beta&t=5r5Mo_O8J3-8uuTRJu50_1eWulbSNagaERSM7eqHIRg"
+<img src ="https://drive.google.com/file/d/1EZaBKS2FWM5eJX6ikhRqK5E-sBv_tTtr/view?usp=sharing" alt=" banner that says Kashaf Thakur - Data Analyst"> -->
 
 
 ## About Me 🙋‍♀️ 
